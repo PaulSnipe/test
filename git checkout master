@@ -1,0 +1,17 @@
+[33mcommit a6e868d85052557d03cdba5411c3e605de36fea9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_script[m[33m)[m
+Author: Паша <bps191342@gmail.com>
+Date:   Thu Aug 14 09:50:32 2025 +0300
+
+    pr01-addscript: add script in page
+
+[33mcommit 3c6af1854f8cc3245a8e298a1b4e0e93b7a6f3b0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Паша <bps191342@gmail.com>
+Date:   Thu Aug 14 09:39:49 2025 +0300
+
+    pr01: add page script and styles
+
+[33mcommit ac44747f7fba908e5f08a1d63376363ed42fb905[m
+Author: Паша <bps191342@gmail.com>
+Date:   Wed Aug 13 23:01:58 2025 +0300
+
+    first commit
